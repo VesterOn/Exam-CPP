@@ -1,5 +1,5 @@
 #include "functions.h"
-// Hello Kirill
+// Hello Kirill 2.0
 string getline_()
 {
 	string temp;
